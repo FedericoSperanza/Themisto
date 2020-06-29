@@ -1,0 +1,26 @@
+{
+  "name": "themisto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "@types/whatwg-fetch": "0.0.33",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
