@@ -10,7 +10,7 @@ Also https://themisto-api-fsperanza.herokuapp.com/
 <br/>
 # Endpoints:
 <br/>
-/scrapSearch
+/scrapSearch  Type: POST
 <br/>
 Requires this json:
 {
